@@ -31,5 +31,5 @@ class Integer
 	end
 end
 
-p 2.hours
-p 3.days
+puts 2.hours
+puts 3.days
